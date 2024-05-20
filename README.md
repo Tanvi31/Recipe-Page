@@ -12,6 +12,6 @@ Your challenge is to build out this recipe page and get it looking as close to t
 
 ## Check out the Live Link of my solution-
 
-![Live Link](https://tanvi31.github.io/Recipe-Page/)
+https://tanvi31.github.io/Recipe-Page/
 
 **Have fun building!** 🚀
